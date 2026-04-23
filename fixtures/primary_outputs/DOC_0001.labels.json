@@ -1,0 +1,20 @@
+{
+  "doc_id": "DOC_0001",
+  "is_corrupted": true,
+  "injected_errors": [
+    {
+      "error_type": "numeric_drift",
+      "affected_fields": [
+        "total_portfolio_value"
+      ],
+      "description": "Drifted total_portfolio_value from 47882047.07 to 45952353.43"
+    },
+    {
+      "error_type": "hallucinated_allocation",
+      "affected_fields": [
+        "asset_allocations"
+      ],
+      "description": "Hallucinated hedge_funds allocation of 8.1%"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "doc_id": "DOC_0047",
+  "is_corrupted": true,
+  "injected_errors": [
+    {
+      "error_type": "schema_valid_garbage",
+      "affected_fields": [
+        "summary"
+      ],
+      "description": "Summary replaced with plausible but unsupported text"
+    },
+    {
+      "error_type": "doc_misclassification",
+      "affected_fields": [
+        "predicted_doc_type"
+      ],
+      "description": "Misclassified from account_opening to compliance_disclosure"
+    }
+  ]
+}

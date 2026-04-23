@@ -1,0 +1,13 @@
+{
+  "doc_id": "DOC_0011",
+  "is_corrupted": true,
+  "injected_errors": [
+    {
+      "error_type": "hallucinated_allocation",
+      "affected_fields": [
+        "asset_allocations"
+      ],
+      "description": "Hallucinated commodities allocation of 12.3%"
+    }
+  ]
+}

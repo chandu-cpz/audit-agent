@@ -1,0 +1,114 @@
+{
+  "doc_id": "DOC_0001",
+  "predicted_doc_type": "quarterly_portfolio_review",
+  "fields": [
+    {
+      "field_name": "total_portfolio_value",
+      "value": 45952353.43,
+      "raw_quote": "$47,882,047.07",
+      "char_span": [
+        132,
+        146
+      ]
+    },
+    {
+      "field_name": "asset_allocations",
+      "value": {
+        "equities": {
+          "value": 19344347.02,
+          "weight": 40.4
+        },
+        "fixed_income": {
+          "value": 6990778.87,
+          "weight": 14.6
+        },
+        "cash": {
+          "value": 21546921.18,
+          "weight": 45.0
+        },
+        "hedge_funds": {
+          "value": 0,
+          "weight": 8.1
+        }
+      },
+      "raw_quote": "Equities      | $19,344,347.02 | Hedge_Funds 8.1%",
+      "char_span": [
+        516,
+        546
+      ]
+    },
+    {
+      "field_name": "performance_ytd",
+      "value": -10.91,
+      "raw_quote": "-10.91%",
+      "char_span": [
+        304,
+        311
+      ]
+    },
+    {
+      "field_name": "performance_qtd",
+      "value": -0.4,
+      "raw_quote": "-0.4%",
+      "char_span": [
+        269,
+        274
+      ]
+    },
+    {
+      "field_name": "benchmark_comparison",
+      "value": {
+        "benchmark": "Bloomberg US Agg",
+        "benchmark_return": -12.32,
+        "excess_return": 1.41
+      },
+      "raw_quote": "-12.32%",
+      "char_span": [
+        349,
+        356
+      ]
+    },
+    {
+      "field_name": "risk_metrics",
+      "value": {
+        "volatility": 12,
+        "sharpe_ratio": -0.05,
+        "max_drawdown": 2.4
+      },
+      "raw_quote": "12%",
+      "char_span": [
+        763,
+        766
+      ]
+    },
+    {
+      "field_name": "strategy_changes",
+      "value": "no changes",
+      "raw_quote": "No changes",
+      "char_span": [
+        1326,
+        1336
+      ]
+    },
+    {
+      "field_name": "fees_charged",
+      "value": 119705.12,
+      "raw_quote": "$119,705.12",
+      "char_span": [
+        1084,
+        1095
+      ]
+    },
+    {
+      "field_name": "commentary",
+      "value": "outperformed",
+      "raw_quote": "outperformed",
+      "char_span": [
+        849,
+        861
+      ]
+    }
+  ],
+  "summary": "Q1 2026 portfolio review for Margaret Chen. Total value: $47,882,047. YTD return: -10.91% (outperformed benchmark by 1.41pp). Allocation: 40.4% equities, 14.6% fixed income, 45.0% cash.",
+  "metadata": {}
+}

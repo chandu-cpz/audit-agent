@@ -1,0 +1,13 @@
+{
+  "doc_id": "DOC_0044",
+  "is_corrupted": true,
+  "injected_errors": [
+    {
+      "error_type": "numeric_drift",
+      "affected_fields": [
+        "annual_income"
+      ],
+      "description": "Drifted annual_income from 1338904.88 to 1290461.47"
+    }
+  ]
+}

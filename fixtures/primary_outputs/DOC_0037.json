@@ -1,0 +1,109 @@
+{
+  "doc_id": "DOC_0037",
+  "predicted_doc_type": "investment_policy_statement",
+  "fields": [
+    {
+      "field_name": "client_name",
+      "value": "Catherine O'Brien",
+      "raw_quote": "Catherine O'Brien",
+      "char_span": [
+        49,
+        66
+      ]
+    },
+    {
+      "field_name": "risk_tolerance",
+      "value": "aggressive",
+      "raw_quote": "Aggressive",
+      "char_span": [
+        369,
+        379
+      ]
+    },
+    {
+      "field_name": "investment_objective",
+      "value": "long_term_growth",
+      "raw_quote": "long term growth",
+      "char_span": [
+        178,
+        194
+      ]
+    },
+    {
+      "field_name": "time_horizon",
+      "value": 8,
+      "raw_quote": "8 years",
+      "char_span": [
+        400,
+        407
+      ]
+    },
+    {
+      "field_name": "liquidity_needs",
+      "value": {
+        "amount": 443385.67,
+        "horizon_months": 17
+      },
+      "raw_quote": "$443,385.67",
+      "char_span": [
+        524,
+        535
+      ]
+    },
+    {
+      "field_name": "return_target",
+      "value": "capital appreciation",
+      "raw_quote": "long-term capital appreciation",
+      "char_span": [
+        224,
+        254
+      ]
+    },
+    {
+      "field_name": "constraints",
+      "value": [
+        "No tobacco or firearms",
+        "Max 5% single issuer",
+        "Investment grade fixed income only"
+      ],
+      "raw_quote": "No investments in tobacco",
+      "char_span": [
+        857,
+        882
+      ]
+    },
+    {
+      "field_name": "asset_allocation_target",
+      "value": {
+        "equities": 76.0,
+        "fixed_income": 4.8,
+        "cash": 19.2
+      },
+      "raw_quote": "Equities      | 76.0",
+      "char_span": [
+        713,
+        733
+      ]
+    },
+    {
+      "field_name": "rebalancing_frequency",
+      "value": "quarterly",
+      "raw_quote": "quarterly",
+      "char_span": [
+        1080,
+        1089
+      ]
+    },
+    {
+      "field_name": "benchmark",
+      "value": "60/40 Blend",
+      "raw_quote": "60/40 Blend",
+      "char_span": [
+        1236,
+        1247
+      ]
+    }
+  ],
+  "summary": "IPS for Catherine O'Brien with aggressive risk tolerance and 8-year time horizon. Target allocation: 76.0% equities, 4.8% fixed income, 19.2% cash. The client anticipates withdrawing $443,386 within 17 months.",
+  "metadata": {}
+}

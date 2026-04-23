@@ -1,0 +1,110 @@
+{
+  "doc_id": "DOC_0024",
+  "predicted_doc_type": "quarterly_portfolio_review",
+  "fields": [
+    {
+      "field_name": "total_portfolio_value",
+      "value": 8805562.6,
+      "raw_quote": "$8,805,562.60",
+      "char_span": [
+        135,
+        148
+      ]
+    },
+    {
+      "field_name": "asset_allocations",
+      "value": {
+        "equities": {
+          "value": 5459448.81,
+          "weight": 62.0
+        },
+        "fixed_income": {
+          "value": 1417695.58,
+          "weight": 16.1
+        },
+        "cash": {
+          "value": 1928418.21,
+          "weight": 21.9
+        }
+      },
+      "raw_quote": "Equities      | $5,459,448.81",
+      "char_span": [
+        517,
+        546
+      ]
+    },
+    {
+      "field_name": "performance_ytd",
+      "value": 23.55,
+      "raw_quote": "23.55%",
+      "char_span": [
+        306,
+        312
+      ]
+    },
+    {
+      "field_name": "performance_qtd",
+      "value": 6.37,
+      "raw_quote": "6.37%",
+      "char_span": [
+        271,
+        276
+      ]
+    },
+    {
+      "field_name": "benchmark_comparison",
+      "value": {
+        "benchmark": "Bloomberg US Agg",
+        "benchmark_return": 26.33,
+        "excess_return": -2.78
+      },
+      "raw_quote": "26.33%",
+      "char_span": [
+        350,
+        356
+      ]
+    },
+    {
+      "field_name": "risk_metrics",
+      "value": {
+        "volatility": 12,
+        "sharpe_ratio": 1.68,
+        "max_drawdown": 2
+      },
+      "raw_quote": "12%",
+      "char_span": [
+        761,
+        764
+      ]
+    },
+    {
+      "field_name": "strategy_changes",
+      "value": "no changes",
+      "raw_quote": "No changes",
+      "char_span": [
+        1130,
+        1140
+      ]
+    },
+    {
+      "field_name": "fees_charged",
+      "value": 22013.91,
+      "raw_quote": "$22,013.91",
+      "char_span": [
+        1098,
+        1108
+      ]
+    },
+    {
+      "field_name": "commentary",
+      "value": "underperformed",
+      "raw_quote": "underperformed",
+      "char_span": [
+        844,
+        858
+      ]
+    }
+  ],
+  "summary": "Q1 2026 portfolio review for Hassan Al-Rashid. Total value: $8,805,563. YTD return: 23.55% (underperformed benchmark by 2.78pp). Allocation: 62.0% equities, 16.1% fixed income, 21.9% cash.",
+  "metadata": {}
+}

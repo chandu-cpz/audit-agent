@@ -1,0 +1,43 @@
+# Per-doc-type audit policies used by the current prototype.
+# Only keep fields that are live in runtime behavior.
+
+account_opening:
+  required_fields:
+    - client_name
+    - account_type
+    - risk_tolerance
+    - investment_objective
+    - date_of_birth
+    - citizenship
+    - source_of_funds
+  policy_override: null  # no special override
+
+investment_policy_statement:
+  required_fields:
+    - client_name
+    - risk_tolerance
+    - investment_objective
+    - time_horizon
+    - liquidity_needs
+    - constraints
+    - asset_allocation_target
+  policy_override: null
+
+quarterly_portfolio_review:
+  required_fields:
+    - total_portfolio_value
+    - asset_allocations
+    - performance_ytd
+    - risk_metrics
+    - commentary
+  policy_override: null
+
+compliance_disclosure:
+  required_fields:
+    - pep_flag
+    - sanctions_screening
+    - aml_status
+    - kyc_status
+    - suitability_confirmed
+    - risk_disclosure_acknowledged
+  policy_override: human_review  # compliance docs ALWAYS go to human review

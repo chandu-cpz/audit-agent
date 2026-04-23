@@ -1,0 +1,106 @@
+{
+  "doc_id": "DOC_0035",
+  "predicted_doc_type": "investment_policy_statement",
+  "fields": [
+    {
+      "field_name": "client_name",
+      "value": "William Frost",
+      "raw_quote": "William Frost",
+      "char_span": [
+        49,
+        62
+      ]
+    },
+    {
+      "field_name": "risk_tolerance",
+      "value": "aggressive",
+      "raw_quote": "Aggressive",
+      "char_span": [
+        369,
+        379
+      ]
+    },
+    {
+      "field_name": "investment_objective",
+      "value": "capital_preservation",
+      "raw_quote": "capital preservation",
+      "char_span": [
+        174,
+        194
+      ]
+    },
+    {
+      "field_name": "time_horizon",
+      "value": 23,
+      "raw_quote": "23 years",
+      "char_span": [
+        400,
+        408
+      ]
+    },
+    {
+      "field_name": "liquidity_needs",
+      "value": "none",
+      "raw_quote": "long-term capital appreciation",
+      "char_span": [
+        224,
+        254
+      ]
+    },
+    {
+      "field_name": "return_target",
+      "value": "capital appreciation",
+      "raw_quote": "long-term capital appreciation",
+      "char_span": [
+        224,
+        254
+      ]
+    },
+    {
+      "field_name": "constraints",
+      "value": [
+        "No tobacco or firearms",
+        "Max 5% single issuer",
+        "Investment grade fixed income only"
+      ],
+      "raw_quote": "No investments in tobacco",
+      "char_span": [
+        720,
+        745
+      ]
+    },
+    {
+      "field_name": "asset_allocation_target",
+      "value": {
+        "equities": 21.7,
+        "fixed_income": 40.4,
+        "cash": 37.9
+      },
+      "raw_quote": "Equities      | 21.7",
+      "char_span": [
+        572,
+        592
+      ]
+    },
+    {
+      "field_name": "rebalancing_frequency",
+      "value": "quarterly",
+      "raw_quote": "quarterly",
+      "char_span": [
+        943,
+        952
+      ]
+    },
+    {
+      "field_name": "benchmark",
+      "value": "MSCI ACWI",
+      "raw_quote": "MSCI ACWI",
+      "char_span": [
+        1099,
+        1108
+      ]
+    }
+  ],
+  "summary": "IPS for William Frost with aggressive risk tolerance and 23-year time horizon. Target allocation: 21.7% equities, 40.4% fixed income, 37.9% cash.",
+  "metadata": {}
+}

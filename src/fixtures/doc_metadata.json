@@ -1,0 +1,52 @@
+[
+  {
+    "doc_id": "DOC_0000",
+    "doc_type": "quarterly_portfolio_review",
+    "slots": "TemplateSlots(client_name='Margaret Chen', account_type='ira', risk_tolerance='moderately_aggressive', investment_objective='income', time_horizon=29, total_value=33996624.63, equity_pct=33.4, fixed_income_pct=37.0, cash_pct=29.6, performance_ytd=6.81, performance_qtd=3.81, benchmark_return=2.13, benchmark='MSCI ACWI', compliance_flags=['Adverse media screening: CLEAR', 'PEP screening completed', 'KYC documentation: COMPLETE', 'Risk disclosure: ACKNOWLEDGED', 'Fee schedule: DISCLOSED', 'Suitability assessment: CONFIRMED'], bespoke_clauses=[], liquidity_amount=0, liquidity_horizon_months=0, date='2026-03-31', seed=0)"
+  },
+  {
+    "doc_id": "DOC_0001",
+    "doc_type": "quarterly_portfolio_review",
+    "slots": "TemplateSlots(client_name='Margaret Chen', account_type='trust', risk_tolerance='moderate', investment_objective='long_term_growth', time_horizon=11, total_value=47882047.07, equity_pct=40.4, fixed_income_pct=14.6, cash_pct=45.0, performance_ytd=-10.91, performance_qtd=-0.4, benchmark_return=-12.32, benchmark='Bloomberg US Agg', compliance_flags=['Conflict of interest: NONE IDENTIFIED', 'Adverse media screening: CLEAR', 'Sanctions screening: CLEAR', 'KYC documentation: COMPLETE', 'PEP screening completed'], bespoke_clauses=['Except as otherwise provided herein, no single issuer shall represent more than 3% of total portfolio value, with the exception of US Treasury obligations.'], liquidity_amount=423232.1, liquidity_horizon_months=22, date='2026-03-31', seed=0)"
+  },
+  {
+    "doc_id": "DOC_0002",
+    "doc_type": "quarterly_portfolio_review",
+    "slots": "TemplateSlots(client_name='Margaret Chen', account_type='joint', risk_tolerance='moderate', investment_objective='balanced_growth', time_horizon=13, total_value=43390941.5, equity_pct=79.1, fixed_income_pct=2.2, cash_pct=18.7, performance_ytd=-3.88, performance_qtd=4.71, benchmark_return=-5.23, benchmark='MSCI ACWI', compliance_flags=['Suitability assessment: CONFIRMED', 'Sanctions screening: CLEAR', 'AML verification: PASSED', 'Source of funds: VERIFIED', 'Risk disclosure: ACKNOWLEDGED', 'Adverse media screening: CLEAR', 'Fee schedule: DISCLOSED', 'KYC documentation: COMPLETE', 'Conflict of interest: NONE IDENTIFIED', 'PEP screening completed'], bespoke_clauses=[\"The portfolio must maintain a minimum 15% allocation to ESG-screened securities as per the client's environmental mandate dated 2026-01-15.\"], liquidity_amount=337999.89, liquidity_horizon_months=20, date='2026-03-31', seed=0)"
+  },
+  {
+    "doc_id": "DOC_0003",
+    "doc_type": "quarterly_portfolio_review",
+    "slots": "TemplateSlots(client_name='Margaret Chen', account_type='401k', risk_tolerance='moderate', investment_objective='capital_preservation', time_horizon=30, total_value=3776335.96, equity_pct=68.3, fixed_income_pct=10.7, cash_pct=21.0, performance_ytd=22.72, performance_qtd=9.53, benchmark_return=20.87, benchmark='60/40 Blend', compliance_flags=['Suitability assessment: CONFIRMED', 'AML verification: PASSED', 'KYC documentation: COMPLETE', 'Risk disclosure: ACKNOWLEDGED', 'Source of funds: VERIFIED', 'Fee schedule: DISCLOSED'], bespoke_clauses=['The client has imposed a custom restriction prohibiting investment in companies deriving more than 10% of revenue from fossil fuel extraction.', 'The client requires that all fixed income holdings maintain a minimum credit rating of BBB- (investment grade) as assessed by at least two major rating agencies.'], liquidity_amount=0, liquidity_horizon_months=0, date='2026-03-31', seed=0)"
+  },
+  {
+    "doc_id": "DOC_0004",
+    "doc_type": "compliance_disclosure",
+    "slots": "TemplateSlots(client_name='Elena Vasquez', account_type='trust', risk_tolerance='moderately_aggressive', investment_objective='income', time_horizon=25, total_value=24929033.83, equity_pct=79.8, fixed_income_pct=8.6, cash_pct=11.6, performance_ytd=-13.12, performance_qtd=-5.81, benchmark_return=-11.85, benchmark='MSCI ACWI', compliance_flags=['Sanctions screening: CLEAR', 'Fee schedule: DISCLOSED', 'Adverse media screening: CLEAR', 'Suitability assessment: CONFIRMED', 'KYC documentation: COMPLETE', 'Conflict of interest: NONE IDENTIFIED', 'AML verification: PASSED', 'Risk disclosure: ACKNOWLEDGED', 'PEP screening completed'], bespoke_clauses=['The client has imposed a custom restriction prohibiting investment in companies deriving more than 10% of revenue from fossil fuel extraction.'], liquidity_amount=101548.28, liquidity_horizon_months=20, date='2026-03-31', seed=0)"
+  },
+  {
+    "doc_id": "DOC_0005",
+    "doc_type": "account_opening",
+    "slots": "TemplateSlots(client_name='Elena Vasquez', account_type='trust', risk_tolerance='moderate', investment_objective='long_term_growth', time_horizon=17, total_value=36124193.11, equity_pct=20.2, fixed_income_pct=46.0, cash_pct=33.8, performance_ytd=15.48, performance_qtd=2.15, benchmark_return=11.54, benchmark='MSCI ACWI', compliance_flags=['Suitability assessment: CONFIRMED', 'Adverse media screening: CLEAR', 'KYC documentation: COMPLETE', 'Sanctions screening: CLEAR', 'AML verification: PASSED', 'Fee schedule: DISCLOSED', 'PEP screening completed', 'Risk disclosure: ACKNOWLEDGED', 'Source of funds: VERIFIED', 'Conflict of interest: NONE IDENTIFIED'], bespoke_clauses=[], liquidity_amount=0, liquidity_horizon_months=0, date='2026-03-31', seed=0)"
+  },
+  {
+    "doc_id": "DOC_0006",
+    "doc_type": "account_opening",
+    "slots": "TemplateSlots(client_name='James Whitfield', account_type='401k', risk_tolerance='conservative', investment_objective='capital_preservation', time_horizon=18, total_value=48910232.44, equity_pct=63.9, fixed_income_pct=15.0, cash_pct=21.1, performance_ytd=15.63, performance_qtd=-5.43, benchmark_return=15.38, benchmark='60/40 Blend', compliance_flags=['AML verification: PASSED', 'Suitability assessment: CONFIRMED', 'Fee schedule: DISCLOSED', 'Sanctions screening: CLEAR', 'Adverse media screening: CLEAR', 'Conflict of interest: NONE IDENTIFIED', 'Source of funds: VERIFIED', 'Risk disclosure: ACKNOWLEDGED', 'KYC documentation: COMPLETE'], bespoke_clauses=[], liquidity_amount=0, liquidity_horizon_months=0, date='2026-03-31', seed=0)"
+  },
+  {
+    "doc_id": "DOC_0007",
+    "doc_type": "account_opening",
+    "slots": "TemplateSlots(client_name='James Whitfield', account_type='401k', risk_tolerance='conservative', investment_objective='balanced_growth', time_horizon=1, total_value=29627785.66, equity_pct=21.3, fixed_income_pct=37.0, cash_pct=41.7, performance_ytd=-12.16, performance_qtd=4.62, benchmark_return=-14.87, benchmark='Bloomberg US Agg', compliance_flags=['Risk disclosure: ACKNOWLEDGED', 'Sanctions screening: CLEAR', 'KYC documentation: COMPLETE', 'AML verification: PASSED', 'Source of funds: VERIFIED'], bespoke_clauses=[], liquidity_amount=0, liquidity_horizon_months=0, date='2026-03-31', seed=0)"
+  },
+  {
+    "doc_id": "DOC_0008",
+    "doc_type": "quarterly_portfolio_review",
+    "slots": "TemplateSlots(client_name='Hassan Al-Rashid', account_type='ira', risk_tolerance='aggressive', investment_objective='income', time_horizon=4, total_value=9925290.76, equity_pct=67.1, fixed_income_pct=12.3, cash_pct=20.6, performance_ytd=11.36, performance_qtd=-0.91, benchmark_return=10.47, benchmark='Bloomberg US Agg', compliance_flags=['Fee schedule: DISCLOSED', 'Risk disclosure: ACKNOWLEDGED', 'Sanctions screening: CLEAR', 'Conflict of interest: NONE IDENTIFIED', 'Source of funds: VERIFIED'], bespoke_clauses=['Notwithstanding the general allocation guidelines, the client has requested a specific carve-out of up to 5% in direct private equity co-investments.', 'The client requires that all fixed income holdings maintain a minimum credit rating of BBB- (investment grade) as assessed by at least two major rating agencies.'], liquidity_amount=0, liquidity_horizon_months=0, date='2026-03-31', seed=0)"
+  },
+  {
+    "doc_id": "DOC_0009",
+    "doc_type": "investment_policy_statement",
+    "slots": "TemplateSlots(client_name='Aisha Patel', account_type='individual', risk_tolerance='aggressive', investment_objective='income', time_horizon=28, total_value=40497101.11, equity_pct=72.5, fixed_income_pct=9.8, cash_pct=17.7, performance_ytd=7.01, performance_qtd=-6.99, benchmark_return=12.0, benchmark='60/40 Blend', compliance_flags=['Fee schedule: DISCLOSED', 'Conflict of interest: NONE IDENTIFIED', 'Adverse media screening: CLEAR', 'Sanctions screening: CLEAR', 'KYC documentation: COMPLETE', 'PEP screening completed'], bespoke_clauses=['Notwithstanding the general allocation guidelines, the client has requested a specific carve-out of up to 5% in direct private equity co-investments.', \"The portfolio must maintain a minimum 15% allocation to ESG-screened securities as per the client's environmental mandate dated 2026-01-15.\"], liquidity_amount=0, liquidity_horizon_months=0, date='2026-03-31', seed=0)"
+  }
+]

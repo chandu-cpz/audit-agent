@@ -1,0 +1,110 @@
+{
+  "doc_id": "DOC_0043",
+  "predicted_doc_type": "quarterly_portfolio_review",
+  "fields": [
+    {
+      "field_name": "total_portfolio_value",
+      "value": 33978024.37,
+      "raw_quote": "$33,978,024.37",
+      "char_span": [
+        134,
+        148
+      ]
+    },
+    {
+      "field_name": "asset_allocations",
+      "value": {
+        "equities": {
+          "value": 22153671.89,
+          "weight": 65.2
+        },
+        "fixed_income": {
+          "value": 3771560.71,
+          "weight": 11.1
+        },
+        "cash": {
+          "value": 8052791.78,
+          "weight": 23.7
+        }
+      },
+      "raw_quote": "Equities      | $22,153,671.89",
+      "char_span": [
+        510,
+        540
+      ]
+    },
+    {
+      "field_name": "performance_ytd",
+      "value": 24.2,
+      "raw_quote": "24.2%",
+      "char_span": [
+        307,
+        312
+      ]
+    },
+    {
+      "field_name": "performance_qtd",
+      "value": 11.35,
+      "raw_quote": "11.35%",
+      "char_span": [
+        271,
+        277
+      ]
+    },
+    {
+      "field_name": "benchmark_comparison",
+      "value": {
+        "benchmark": "MSCI ACWI",
+        "benchmark_return": 27.25,
+        "excess_return": -3.05
+      },
+      "raw_quote": "27.25%",
+      "char_span": [
+        343,
+        349
+      ]
+    },
+    {
+      "field_name": "risk_metrics",
+      "value": {
+        "volatility": 8,
+        "sharpe_ratio": 1.71,
+        "max_drawdown": 2
+      },
+      "raw_quote": "8%",
+      "char_span": [
+        756,
+        758
+      ]
+    },
+    {
+      "field_name": "strategy_changes",
+      "value": "rebalancing recommended",
+      "raw_quote": "recommend",
+      "char_span": [
+        1371,
+        1380
+      ]
+    },
+    {
+      "field_name": "fees_charged",
+      "value": 84945.06,
+      "raw_quote": "$84,945.06",
+      "char_span": [
+        1092,
+        1102
+      ]
+    },
+    {
+      "field_name": "commentary",
+      "value": "underperformed",
+      "raw_quote": "underperformed",
+      "char_span": [
+        838,
+        852
+      ]
+    }
+  ],
+  "summary": "Q1 2026 portfolio review for Thomas Nakamura. Total value: $33,978,024. YTD return: 24.2% (underperformed benchmark by 3.05pp). Allocation: 65.2% equities, 11.1% fixed income, 23.7% cash.",
+  "metadata": {}
+}

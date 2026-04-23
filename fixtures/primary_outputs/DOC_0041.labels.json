@@ -1,0 +1,13 @@
+{
+  "doc_id": "DOC_0041",
+  "is_corrupted": true,
+  "injected_errors": [
+    {
+      "error_type": "temporal_misattribution",
+      "affected_fields": [
+        "risk_tolerance"
+      ],
+      "description": "Risk tolerance misattributed from moderately_aggressive to moderate"
+    }
+  ]
+}

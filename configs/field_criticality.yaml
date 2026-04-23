@@ -1,0 +1,59 @@
+# Field criticality by (doc_type, field_name).
+# Drives both scrutiny-level escalation and the business-weighted evaluation metric.
+# Levels: low, medium, high, critical
+
+account_opening:
+  client_name: high
+  account_type: medium
+  risk_tolerance: critical
+  investment_objective: high
+  tax_status: medium
+  beneficiaries: medium
+  contact_email: low
+  contact_phone: low
+  date_of_birth: medium
+  citizenship: medium
+  employment_status: low
+  annual_income: medium
+  net_worth: medium
+  source_of_funds: high
+  pep_status: critical
+
+investment_policy_statement:
+  client_name: high
+  risk_tolerance: critical
+  investment_objective: critical
+  time_horizon: high
+  liquidity_needs: high
+  return_target: high
+  constraints: critical
+  asset_allocation_target: high
+  rebalancing_frequency: medium
+  benchmark: medium
+  esg_preferences: medium
+  tax_considerations: medium
+
+quarterly_portfolio_review:
+  total_portfolio_value: high
+  asset_allocations: critical
+  performance_ytd: high
+  performance_qtd: medium
+  benchmark_comparison: medium
+  risk_metrics: high
+  strategy_changes: critical
+  cash_position: medium
+  fees_charged: medium
+  rebalancing_actions: high
+  commentary: medium
+
+compliance_disclosure:
+  pep_flag: critical
+  sanctions_screening: critical
+  aml_status: critical
+  kyc_status: critical
+  suitability_confirmed: critical
+  risk_disclosure_acknowledged: high
+  conflict_of_interest: high
+  fee_disclosure: high
+  regulatory_status: high
+  adverse_media: critical

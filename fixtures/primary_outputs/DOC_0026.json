@@ -1,0 +1,110 @@
+{
+  "doc_id": "DOC_0026",
+  "predicted_doc_type": "investment_policy_statement",
+  "fields": [
+    {
+      "field_name": "total_portfolio_value",
+      "value": 13785579.13,
+      "raw_quote": "$13,785,579.13",
+      "char_span": [
+        136,
+        150
+      ]
+    },
+    {
+      "field_name": "asset_allocations",
+      "value": {
+        "equities": {
+          "value": 6355151.98,
+          "weight": 46.1
+        },
+        "fixed_income": {
+          "value": 3791034.26,
+          "weight": 27.5
+        },
+        "cash": {
+          "value": 3639392.89,
+          "weight": 26.4
+        }
+      },
+      "raw_quote": "Equities      | $6,355,151.98",
+      "char_span": [
+        512,
+        541
+      ]
+    },
+    {
+      "field_name": "performance_ytd",
+      "value": -5.18,
+      "raw_quote": "-5.18%",
+      "char_span": [
+        309,
+        315
+      ]
+    },
+    {
+      "field_name": "performance_qtd",
+      "value": 10.69,
+      "raw_quote": "10.69%",
+      "char_span": [
+        273,
+        279
+      ]
+    },
+    {
+      "field_name": "benchmark_comparison",
+      "value": {
+        "benchmark": "MSCI ACWI",
+        "benchmark_return": -7.39,
+        "excess_return": 2.21
+      },
+      "raw_quote": "-7.39%",
+      "char_span": [
+        346,
+        352
+      ]
+    },
+    {
+      "field_name": "risk_metrics",
+      "value": {
+        "volatility": 20,
+        "sharpe_ratio": 0.24,
+        "max_drawdown": 2
+      },
+      "raw_quote": "20%",
+      "char_span": [
+        757,
+        760
+      ]
+    },
+    {
+      "field_name": "strategy_changes",
+      "value": "no changes",
+      "raw_quote": "No changes",
+      "char_span": [
+        1303,
+        1313
+      ]
+    },
+    {
+      "field_name": "fees_charged",
+      "value": 34463.95,
+      "raw_quote": "$34,463.95",
+      "char_span": [
+        1075,
+        1085
+      ]
+    },
+    {
+      "field_name": "commentary",
+      "value": "outperformed",
+      "raw_quote": "outperformed",
+      "char_span": [
+        840,
+        852
+      ]
+    }
+  ],
+  "summary": "Q1 2026 portfolio review for Catherine O'Brien. Total value: $13,785,579. YTD return: -5.18% (outperformed benchmark by 2.21pp). Allocation: 46.1% equities, 27.5% fixed income, 26.4% cash.",
+  "metadata": {}
+}

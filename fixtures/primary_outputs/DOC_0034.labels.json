@@ -1,0 +1,13 @@
+{
+  "doc_id": "DOC_0034",
+  "is_corrupted": true,
+  "injected_errors": [
+    {
+      "error_type": "doc_misclassification",
+      "affected_fields": [
+        "predicted_doc_type"
+      ],
+      "description": "Misclassified from quarterly_portfolio_review to investment_policy_statement"
+    }
+  ]
+}

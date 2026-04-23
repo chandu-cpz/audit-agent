@@ -1,0 +1,110 @@
+{
+  "doc_id": "DOC_0017",
+  "predicted_doc_type": "quarterly_portfolio_review",
+  "fields": [
+    {
+      "field_name": "total_portfolio_value",
+      "value": 45025484.28,
+      "raw_quote": "$45,025,484.28",
+      "char_span": [
+        135,
+        149
+      ]
+    },
+    {
+      "field_name": "asset_allocations",
+      "value": {
+        "equities": {
+          "value": 35615158.07,
+          "weight": 79.1
+        },
+        "fixed_income": {
+          "value": 4007268.1,
+          "weight": 8.9
+        },
+        "cash": {
+          "value": 5403058.11,
+          "weight": 12.0
+        }
+      },
+      "raw_quote": "Equities      | $35,615,158.07",
+      "char_span": [
+        510,
+        540
+      ]
+    },
+    {
+      "field_name": "performance_ytd",
+      "value": -4.81,
+      "raw_quote": "-4.81%",
+      "char_span": [
+        307,
+        313
+      ]
+    },
+    {
+      "field_name": "performance_qtd",
+      "value": 6.18,
+      "raw_quote": "6.18%",
+      "char_span": [
+        272,
+        277
+      ]
+    },
+    {
+      "field_name": "benchmark_comparison",
+      "value": {
+        "benchmark": "MSCI ACWI",
+        "benchmark_return": -9.79,
+        "excess_return": 4.98
+      },
+      "raw_quote": "-9.79%",
+      "char_span": [
+        344,
+        350
+      ]
+    },
+    {
+      "field_name": "risk_metrics",
+      "value": {
+        "volatility": 20,
+        "sharpe_ratio": 0.26,
+        "max_drawdown": 2
+      },
+      "raw_quote": "20%",
+      "char_span": [
+        755,
+        758
+      ]
+    },
+    {
+      "field_name": "strategy_changes",
+      "value": "rebalancing recommended",
+      "raw_quote": "recommend",
+      "char_span": [
+        1643,
+        1652
+      ]
+    },
+    {
+      "field_name": "fees_charged",
+      "value": 112563.71,
+      "raw_quote": "$112,563.71",
+      "char_span": [
+        1073,
+        1084
+      ]
+    },
+    {
+      "field_name": "commentary",
+      "value": "outperformed",
+      "raw_quote": "outperformed",
+      "char_span": [
+        838,
+        850
+      ]
+    }
+  ],
+  "summary": "Q1 2026 portfolio review for Robert Lindström. Total value: $45,025,484. YTD return: -4.81% (outperformed benchmark by 4.98pp). Allocation: 79.1% equities, 8.9% fixed income, 12.0% cash.",
+  "metadata": {}
+}

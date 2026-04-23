@@ -1,0 +1,30 @@
+# Scrutiny scoring weights and routing thresholds.
+
+scrutiny:
+  # Weights for the three complexity vectors + doc-type prior
+  weights:
+    doc_type_prior: 0.30
+    structural_density: 0.25
+    regulatory_density: 0.25
+    financial_network_density: 0.20
+
+  # Doc-type priors (higher = more scrutiny)
+  doc_type_scores:
+    account_opening: 0.2
+    investment_policy_statement: 0.6
+    quarterly_portfolio_review: 0.8
+    compliance_disclosure: 0.9
+
+  # Thresholds for scrutiny levels
+  thresholds:
+    low: 0.3
+    medium: 0.5
+    high: 0.7
+    # above 0.7 = critical
+
+routing:
+  # Footing tolerance for allocation sums (percentage points)
+  footing_tolerance_pct: 2.0
+
+  # Citation grounding: minimum rapidfuzz partial_ratio score
+  citation_min_score: 75

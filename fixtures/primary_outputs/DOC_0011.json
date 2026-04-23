@@ -1,0 +1,110 @@
+{
+  "doc_id": "DOC_0011",
+  "predicted_doc_type": "investment_policy_statement",
+  "fields": [
+    {
+      "field_name": "client_name",
+      "value": "Catherine O'Brien",
+      "raw_quote": "Catherine O'Brien",
+      "char_span": [
+        49,
+        66
+      ]
+    },
+    {
+      "field_name": "risk_tolerance",
+      "value": "moderate",
+      "raw_quote": "Moderate",
+      "char_span": [
+        373,
+        381
+      ]
+    },
+    {
+      "field_name": "investment_objective",
+      "value": "capital_preservation",
+      "raw_quote": "capital preservation",
+      "char_span": [
+        178,
+        198
+      ]
+    },
+    {
+      "field_name": "time_horizon",
+      "value": 20,
+      "raw_quote": "20 years",
+      "char_span": [
+        402,
+        410
+      ]
+    },
+    {
+      "field_name": "liquidity_needs",
+      "value": "none",
+      "raw_quote": "long-term capital appreciation",
+      "char_span": [
+        228,
+        258
+      ]
+    },
+    {
+      "field_name": "return_target",
+      "value": "capital appreciation",
+      "raw_quote": "long-term capital appreciation",
+      "char_span": [
+        228,
+        258
+      ]
+    },
+    {
+      "field_name": "constraints",
+      "value": [
+        "No tobacco or firearms",
+        "Max 5% single issuer",
+        "Investment grade fixed income only",
+        "Subject to quarterly review, the portfolio will maintain a currency hedge ratio ",
+        "The portfolio must maintain a minimum 15% allocation to ESG-screened securities ",
+        "Notwithstanding the general allocation guidelines, the client has requested a sp"
+      ],
+      "raw_quote": "No investments in tobacco",
+      "char_span": [
+        718,
+        743
+      ]
+    },
+    {
+      "field_name": "asset_allocation_target",
+      "value": {
+        "equities": 77.6,
+        "fixed_income": 9.4,
+        "cash": 13.0,
+        "commodities": 12.3
+      },
+      "raw_quote": "Equities      | 77.6 | Commodities 12.3%",
+      "char_span": [
+        574,
+        594
+      ]
+    },
+    {
+      "field_name": "rebalancing_frequency",
+      "value": "quarterly",
+      "raw_quote": "quarterly",
+      "char_span": [
+        955,
+        964
+      ]
+    },
+    {
+      "field_name": "benchmark",
+      "value": "MSCI ACWI",
+      "raw_quote": "MSCI ACWI",
+      "char_span": [
+        1577,
+        1586
+      ]
+    }
+  ],
+  "summary": "IPS for Catherine O'Brien with moderate risk tolerance and 20-year time horizon. Target allocation: 77.6% equities, 9.4% fixed income, 13.0% cash.",
+  "metadata": {}
+}

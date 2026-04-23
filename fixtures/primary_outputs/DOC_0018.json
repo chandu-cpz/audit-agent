@@ -1,0 +1,109 @@
+{
+  "doc_id": "DOC_0018",
+  "predicted_doc_type": "investment_policy_statement",
+  "fields": [
+    {
+      "field_name": "client_name",
+      "value": "James Whitfield",
+      "raw_quote": "James Whitfield",
+      "char_span": [
+        49,
+        64
+      ]
+    },
+    {
+      "field_name": "risk_tolerance",
+      "value": "aggressive",
+      "raw_quote": "Aggressive",
+      "char_span": [
+        367,
+        377
+      ]
+    },
+    {
+      "field_name": "investment_objective",
+      "value": "long_term_growth",
+      "raw_quote": "long term growth",
+      "char_span": [
+        176,
+        192
+      ]
+    },
+    {
+      "field_name": "time_horizon",
+      "value": 10,
+      "raw_quote": "10 years",
+      "char_span": [
+        398,
+        406
+      ]
+    },
+    {
+      "field_name": "liquidity_needs",
+      "value": {
+        "amount": 177703.88,
+        "horizon_months": 24
+      },
+      "raw_quote": "$177,703.88",
+      "char_span": [
+        523,
+        534
+      ]
+    },
+    {
+      "field_name": "return_target",
+      "value": "capital appreciation",
+      "raw_quote": "long-term capital appreciation",
+      "char_span": [
+        222,
+        252
+      ]
+    },
+    {
+      "field_name": "constraints",
+      "value": [
+        "No tobacco or firearms",
+        "Max 5% single issuer",
+        "Investment grade fixed income only"
+      ],
+      "raw_quote": "No investments in tobacco",
+      "char_span": [
+        859,
+        884
+      ]
+    },
+    {
+      "field_name": "asset_allocation_target",
+      "value": {
+        "equities": 60.6,
+        "fixed_income": 18.5,
+        "cash": 20.9
+      },
+      "raw_quote": "Equities      | 60.6",
+      "char_span": [
+        712,
+        732
+      ]
+    },
+    {
+      "field_name": "rebalancing_frequency",
+      "value": "quarterly",
+      "raw_quote": "quarterly",
+      "char_span": [
+        1082,
+        1091
+      ]
+    },
+    {
+      "field_name": "benchmark",
+      "value": "MSCI ACWI",
+      "raw_quote": "MSCI ACWI",
+      "char_span": [
+        1238,
+        1247
+      ]
+    }
+  ],
+  "summary": "IPS for James Whitfield with aggressive risk tolerance and 10-year time horizon. Target allocation: 60.6% equities, 18.5% fixed income, 20.9% cash. The client anticipates withdrawing $177,704 within 24 months.",
+  "metadata": {}
+}

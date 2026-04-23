@@ -1,0 +1,111 @@
+{
+  "doc_id": "DOC_0020",
+  "predicted_doc_type": "investment_policy_statement",
+  "fields": [
+    {
+      "field_name": "client_name",
+      "value": "David Okonkwo",
+      "raw_quote": "David Okonkwo",
+      "char_span": [
+        49,
+        62
+      ]
+    },
+    {
+      "field_name": "risk_tolerance",
+      "value": "aggressive",
+      "raw_quote": "Aggressive",
+      "char_span": [
+        355,
+        365
+      ]
+    },
+    {
+      "field_name": "investment_objective",
+      "value": "income",
+      "raw_quote": "income",
+      "char_span": [
+        174,
+        180
+      ]
+    },
+    {
+      "field_name": "time_horizon",
+      "value": 20,
+      "raw_quote": "20 years",
+      "char_span": [
+        386,
+        394
+      ]
+    },
+    {
+      "field_name": "liquidity_needs",
+      "value": {
+        "amount": 173568.85,
+        "horizon_months": 5
+      },
+      "raw_quote": "$173,568.85",
+      "char_span": [
+        511,
+        522
+      ]
+    },
+    {
+      "field_name": "return_target",
+      "value": "capital appreciation",
+      "raw_quote": "long-term capital appreciation",
+      "char_span": [
+        210,
+        240
+      ]
+    },
+    {
+      "field_name": "constraints",
+      "value": [
+        "No tobacco or firearms",
+        "Max 5% single issuer",
+        "Investment grade fixed income only",
+        "Subject to quarterly review, the portfolio will maintain a currency hedge ratio ",
+        "The client has imposed a custom restriction prohibiting investment in companies "
+      ],
+      "raw_quote": "No investments in tobacco",
+      "char_span": [
+        875,
+        900
+      ]
+    },
+    {
+      "field_name": "asset_allocation_target",
+      "value": {
+        "equities": 68.1,
+        "fixed_income": 11.3,
+        "cash": 20.6
+      },
+      "raw_quote": "Equities      | 68.1",
+      "char_span": [
+        699,
+        719
+      ]
+    },
+    {
+      "field_name": "rebalancing_frequency",
+      "value": "quarterly",
+      "raw_quote": "quarterly",
+      "char_span": [
+        1112,
+        1121
+      ]
+    },
+    {
+      "field_name": "benchmark",
+      "value": "MSCI ACWI",
+      "raw_quote": "MSCI ACWI",
+      "char_span": [
+        1583,
+        1592
+      ]
+    }
+  ],
+  "summary": "IPS for David Okonkwo with aggressive risk tolerance and 20-year time horizon. Target allocation: 68.1% equities, 11.3% fixed income, 20.6% cash. The client anticipates withdrawing $173,569 within 5 months.",
+  "metadata": {}
+}

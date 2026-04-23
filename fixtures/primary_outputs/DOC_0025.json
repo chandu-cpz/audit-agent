@@ -1,0 +1,107 @@
+{
+  "doc_id": "DOC_0025",
+  "predicted_doc_type": "account_opening",
+  "fields": [
+    {
+      "field_name": "client_name",
+      "value": "Aisha Patel",
+      "raw_quote": "Aisha Patel",
+      "char_span": [
+        65,
+        76
+      ]
+    },
+    {
+      "field_name": "account_type",
+      "value": "401k",
+      "raw_quote": "401k",
+      "char_span": [
+        221,
+        225
+      ]
+    },
+    {
+      "field_name": "risk_tolerance",
+      "value": "conservative",
+      "raw_quote": "Conservative",
+      "char_span": [
+        468,
+        480
+      ]
+    },
+    {
+      "field_name": "investment_objective",
+      "value": "aggressive_growth",
+      "raw_quote": "Aggressive Growth",
+      "char_span": [
+        428,
+        445
+      ]
+    },
+    {
+      "field_name": "date_of_birth",
+      "value": "1968-04-12",
+      "raw_quote": "1968-04-12",
+      "char_span": [
+        98,
+        108
+      ]
+    },
+    {
+      "field_name": "citizenship",
+      "value": "United States",
+      "raw_quote": "United States",
+      "char_span": [
+        128,
+        141
+      ]
+    },
+    {
+      "field_name": "employment_status",
+      "value": "Self-employed",
+      "raw_quote": "Self-employed",
+      "char_span": [
+        167,
+        180
+      ]
+    },
+    {
+      "field_name": "annual_income",
+      "value": 1736376.93,
+      "raw_quote": "$1,736,376.93",
+      "char_span": [
+        299,
+        312
+      ]
+    },
+    {
+      "field_name": "net_worth",
+      "value": 32557067.49,
+      "raw_quote": "$32,557,067.49",
+      "char_span": [
+        330,
+        344
+      ]
+    },
+    {
+      "field_name": "source_of_funds",
+      "value": "Business income and inheritance",
+      "raw_quote": "Business income and inheritance",
+      "char_span": [
+        368,
+        399
+      ]
+    },
+    {
+      "field_name": "pep_status",
+      "value": false,
+      "raw_quote": "PEP Status: No",
+      "char_span": [
+        510,
+        524
+      ]
+    }
+  ],
+  "summary": "New 401k account opened for Aisha Patel. Client has a conservative risk tolerance with an objective of aggressive growth. Source of funds is business income and inheritance. PEP status: No.",
+  "metadata": {}
+}

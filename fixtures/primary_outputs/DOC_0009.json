@@ -1,0 +1,109 @@
+{
+  "doc_id": "DOC_0009",
+  "predicted_doc_type": "investment_policy_statement",
+  "fields": [
+    {
+      "field_name": "client_name",
+      "value": "Aisha Patel",
+      "raw_quote": "Aisha Patel",
+      "char_span": [
+        49,
+        60
+      ]
+    },
+    {
+      "field_name": "risk_tolerance",
+      "value": "aggressive",
+      "raw_quote": "Aggressive",
+      "char_span": [
+        353,
+        363
+      ]
+    },
+    {
+      "field_name": "investment_objective",
+      "value": "income",
+      "raw_quote": "income",
+      "char_span": [
+        172,
+        178
+      ]
+    },
+    {
+      "field_name": "time_horizon",
+      "value": 28,
+      "raw_quote": "28 years",
+      "char_span": [
+        384,
+        392
+      ]
+    },
+    {
+      "field_name": "liquidity_needs",
+      "value": "none",
+      "raw_quote": "long-term capital appreciation",
+      "char_span": [
+        208,
+        238
+      ]
+    },
+    {
+      "field_name": "return_target",
+      "value": "capital appreciation",
+      "raw_quote": "long-term capital appreciation",
+      "char_span": [
+        208,
+        238
+      ]
+    },
+    {
+      "field_name": "constraints",
+      "value": [
+        "No tobacco or firearms",
+        "Max 5% single issuer",
+        "Investment grade fixed income only",
+        "Notwithstanding the general allocation guidelines, the client has requested a sp",
+        "The portfolio must maintain a minimum 15% allocation to ESG-screened securities "
+      ],
+      "raw_quote": "No investments in tobacco",
+      "char_span": [
+        700,
+        725
+      ]
+    },
+    {
+      "field_name": "asset_allocation_target",
+      "value": {
+        "equities": 72.5,
+        "fixed_income": 9.8,
+        "cash": 17.7,
+        "hedge_funds": 13.6
+      },
+      "raw_quote": "Equities      | 72.5 | Hedge_Funds 13.6%",
+      "char_span": [
+        556,
+        576
+      ]
+    },
+    {
+      "field_name": "rebalancing_frequency",
+      "value": "quarterly",
+      "raw_quote": "quarterly",
+      "char_span": [
+        1270,
+        1279
+      ]
+    },
+    {
+      "field_name": "benchmark",
+      "value": "60/40 Blend",
+      "raw_quote": "60/40 Blend",
+      "char_span": [
+        1426,
+        1437
+      ]
+    }
+  ],
+  "summary": "IPS for Aisha Patel with aggressive risk tolerance and 28-year time horizon. Target allocation: 72.5% equities, 9.8% fixed income, 17.7% cash.",
+  "metadata": {}
+}

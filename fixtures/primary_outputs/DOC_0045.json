@@ -1,0 +1,106 @@
+{
+  "doc_id": "DOC_0045",
+  "predicted_doc_type": "investment_policy_statement",
+  "fields": [
+    {
+      "field_name": "client_name",
+      "value": "Robert Lindström",
+      "raw_quote": "Robert Lindström",
+      "char_span": [
+        49,
+        65
+      ]
+    },
+    {
+      "field_name": "risk_tolerance",
+      "value": "aggressive",
+      "raw_quote": "Aggressive",
+      "char_span": [
+        369,
+        379
+      ]
+    },
+    {
+      "field_name": "investment_objective",
+      "value": "aggressive_growth",
+      "raw_quote": "aggressive growth",
+      "char_span": [
+        177,
+        194
+      ]
+    },
+    {
+      "field_name": "time_horizon",
+      "value": 4,
+      "raw_quote": "4 years",
+      "char_span": [
+        400,
+        407
+      ]
+    },
+    {
+      "field_name": "liquidity_needs",
+      "value": "none",
+      "raw_quote": "long-term capital appreciation",
+      "char_span": [
+        224,
+        254
+      ]
+    },
+    {
+      "field_name": "return_target",
+      "value": "capital appreciation",
+      "raw_quote": "long-term capital appreciation",
+      "char_span": [
+        224,
+        254
+      ]
+    },
+    {
+      "field_name": "constraints",
+      "value": [
+        "No tobacco or firearms",
+        "Max 5% single issuer",
+        "Investment grade fixed income only"
+      ],
+      "raw_quote": "No investments in tobacco",
+      "char_span": [
+        733,
+        758
+      ]
+    },
+    {
+      "field_name": "asset_allocation_target",
+      "value": {
+        "equities": 64.5,
+        "fixed_income": 10.8,
+        "cash": 24.7
+      },
+      "raw_quote": "Equities      | 64.5",
+      "char_span": [
+        571,
+        591
+      ]
+    },
+    {
+      "field_name": "rebalancing_frequency",
+      "value": "quarterly",
+      "raw_quote": "quarterly",
+      "char_span": [
+        956,
+        965
+      ]
+    },
+    {
+      "field_name": "benchmark",
+      "value": "Bloomberg US Agg",
+      "raw_quote": "Bloomberg US Agg",
+      "char_span": [
+        1112,
+        1128
+      ]
+    }
+  ],
+  "summary": "IPS for Robert Lindström with aggressive risk tolerance and 4-year time horizon. Target allocation: 64.5% equities, 10.8% fixed income, 24.7% cash.",
+  "metadata": {}
+}

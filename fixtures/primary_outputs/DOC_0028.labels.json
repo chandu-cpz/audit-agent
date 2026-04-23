@@ -1,0 +1,13 @@
+{
+  "doc_id": "DOC_0028",
+  "is_corrupted": true,
+  "injected_errors": [
+    {
+      "error_type": "temporal_misattribution",
+      "affected_fields": [
+        "time_horizon"
+      ],
+      "description": "Time horizon changed from 15 to 10 years"
+    }
+  ]
+}

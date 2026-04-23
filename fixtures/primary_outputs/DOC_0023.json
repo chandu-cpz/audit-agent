@@ -1,0 +1,107 @@
+{
+  "doc_id": "DOC_0023",
+  "predicted_doc_type": "account_opening",
+  "fields": [
+    {
+      "field_name": "client_name",
+      "value": "Robert Lindström",
+      "raw_quote": "Robert Lindström",
+      "char_span": [
+        65,
+        81
+      ]
+    },
+    {
+      "field_name": "account_type",
+      "value": "joint",
+      "raw_quote": "joint",
+      "char_span": [
+        226,
+        231
+      ]
+    },
+    {
+      "field_name": "risk_tolerance",
+      "value": "moderately_aggressive",
+      "raw_quote": "Moderately Aggressive",
+      "char_span": [
+        473,
+        494
+      ]
+    },
+    {
+      "field_name": "investment_objective",
+      "value": "long_term_growth",
+      "raw_quote": "Long Term Growth",
+      "char_span": [
+        434,
+        450
+      ]
+    },
+    {
+      "field_name": "date_of_birth",
+      "value": "1968-04-12",
+      "raw_quote": "1968-04-12",
+      "char_span": [
+        103,
+        113
+      ]
+    },
+    {
+      "field_name": "citizenship",
+      "value": "United States",
+      "raw_quote": "United States",
+      "char_span": [
+        133,
+        146
+      ]
+    },
+    {
+      "field_name": "employment_status",
+      "value": "Self-employed",
+      "raw_quote": "Self-employed",
+      "char_span": [
+        172,
+        185
+      ]
+    },
+    {
+      "field_name": "annual_income",
+      "value": 1709396.71,
+      "raw_quote": "$1,709,396.71",
+      "char_span": [
+        305,
+        318
+      ]
+    },
+    {
+      "field_name": "net_worth",
+      "value": 32051188.38,
+      "raw_quote": "$32,051,188.38",
+      "char_span": [
+        336,
+        350
+      ]
+    },
+    {
+      "field_name": "source_of_funds",
+      "value": "Business income and inheritance",
+      "raw_quote": "Business income and inheritance",
+      "char_span": [
+        374,
+        405
+      ]
+    },
+    {
+      "field_name": "pep_status",
+      "value": false,
+      "raw_quote": "PEP Status: No",
+      "char_span": [
+        524,
+        538
+      ]
+    }
+  ],
+  "summary": "New joint account opened for Robert Lindström. Client has a moderately aggressive risk tolerance with an objective of long term growth. Source of funds is business income and inheritance. PEP status: No.",
+  "metadata": {}
+}

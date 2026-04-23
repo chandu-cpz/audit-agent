@@ -1,0 +1,107 @@
+{
+  "doc_id": "DOC_0033",
+  "predicted_doc_type": "account_opening",
+  "fields": [
+    {
+      "field_name": "client_name",
+      "value": "Priya Mehta",
+      "raw_quote": "Priya Mehta",
+      "char_span": [
+        65,
+        76
+      ]
+    },
+    {
+      "field_name": "account_type",
+      "value": "trust",
+      "raw_quote": "trust",
+      "char_span": [
+        221,
+        226
+      ]
+    },
+    {
+      "field_name": "risk_tolerance",
+      "value": "conservative",
+      "raw_quote": "Conservative",
+      "char_span": [
+        465,
+        477
+      ]
+    },
+    {
+      "field_name": "investment_objective",
+      "value": "balanced_growth",
+      "raw_quote": "Balanced Growth",
+      "char_span": [
+        427,
+        442
+      ]
+    },
+    {
+      "field_name": "date_of_birth",
+      "value": "1968-04-12",
+      "raw_quote": "1968-04-12",
+      "char_span": [
+        98,
+        108
+      ]
+    },
+    {
+      "field_name": "citizenship",
+      "value": "United States",
+      "raw_quote": "United States",
+      "char_span": [
+        128,
+        141
+      ]
+    },
+    {
+      "field_name": "employment_status",
+      "value": "Self-employed",
+      "raw_quote": "Self-employed",
+      "char_span": [
+        167,
+        180
+      ]
+    },
+    {
+      "field_name": "annual_income",
+      "value": 733755.28,
+      "raw_quote": "$733,755.28",
+      "char_span": [
+        300,
+        311
+      ]
+    },
+    {
+      "field_name": "net_worth",
+      "value": 13757911.54,
+      "raw_quote": "$13,757,911.54",
+      "char_span": [
+        329,
+        343
+      ]
+    },
+    {
+      "field_name": "source_of_funds",
+      "value": "Business income and inheritance",
+      "raw_quote": "Business income and inheritance",
+      "char_span": [
+        367,
+        398
+      ]
+    },
+    {
+      "field_name": "pep_status",
+      "value": false,
+      "raw_quote": "PEP Status: No",
+      "char_span": [
+        507,
+        521
+      ]
+    }
+  ],
+  "summary": "New trust account opened for Priya Mehta. Client has a conservative risk tolerance with an objective of balanced growth. Source of funds is business income and inheritance. PEP status: No.",
+  "metadata": {}
+}

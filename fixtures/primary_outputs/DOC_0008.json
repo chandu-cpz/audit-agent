@@ -1,0 +1,110 @@
+{
+  "doc_id": "DOC_0008",
+  "predicted_doc_type": "quarterly_portfolio_review",
+  "fields": [
+    {
+      "field_name": "total_portfolio_value",
+      "value": 9925290.76,
+      "raw_quote": "$9,925,290.76",
+      "char_span": [
+        135,
+        148
+      ]
+    },
+    {
+      "field_name": "asset_allocations",
+      "value": {
+        "equities": {
+          "value": 6659870.1,
+          "weight": 67.1
+        },
+        "fixed_income": {
+          "value": 1220810.76,
+          "weight": 12.3
+        },
+        "cash": {
+          "value": 2044609.9,
+          "weight": 20.6
+        }
+      },
+      "raw_quote": "Equities      | $6,659,870.10",
+      "char_span": [
+        517,
+        546
+      ]
+    },
+    {
+      "field_name": "performance_ytd",
+      "value": 11.36,
+      "raw_quote": "11.36%",
+      "char_span": [
+        307,
+        313
+      ]
+    },
+    {
+      "field_name": "performance_qtd",
+      "value": -0.91,
+      "raw_quote": "-0.91%",
+      "char_span": [
+        271,
+        277
+      ]
+    },
+    {
+      "field_name": "benchmark_comparison",
+      "value": {
+        "benchmark": "Bloomberg US Agg",
+        "benchmark_return": 10.47,
+        "excess_return": 0.89
+      },
+      "raw_quote": "10.47%",
+      "char_span": [
+        351,
+        357
+      ]
+    },
+    {
+      "field_name": "risk_metrics",
+      "value": {
+        "volatility": 20,
+        "sharpe_ratio": 1.07,
+        "max_drawdown": 2.9
+      },
+      "raw_quote": "20%",
+      "char_span": [
+        761,
+        764
+      ]
+    },
+    {
+      "field_name": "strategy_changes",
+      "value": "no changes",
+      "raw_quote": "No changes",
+      "char_span": [
+        1482,
+        1492
+      ]
+    },
+    {
+      "field_name": "fees_charged",
+      "value": 24813.23,
+      "raw_quote": "$24,813.23",
+      "char_span": [
+        1081,
+        1091
+      ]
+    },
+    {
+      "field_name": "commentary",
+      "value": "outperformed",
+      "raw_quote": "outperformed",
+      "char_span": [
+        846,
+        858
+      ]
+    }
+  ],
+  "summary": "Portfolio review for Lars Johansson shows strong performance. Total value: $9,925,291. YTD return: 11.36% (outperformed benchmark by 0.89pp). Allocation: 67.1% equities, 12.3% fixed income, 20.6% cash.",
+  "metadata": {}
+}

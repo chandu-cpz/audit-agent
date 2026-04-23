@@ -1,0 +1,13 @@
+{
+  "doc_id": "DOC_0048",
+  "is_corrupted": true,
+  "injected_errors": [
+    {
+      "error_type": "schema_valid_garbage",
+      "affected_fields": [
+        "summary"
+      ],
+      "description": "Summary replaced with plausible but unsupported text"
+    }
+  ]
+}

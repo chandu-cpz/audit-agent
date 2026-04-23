@@ -1,0 +1,107 @@
+{
+  "doc_id": "DOC_0049",
+  "predicted_doc_type": "compliance_disclosure",
+  "fields": [
+    {
+      "field_name": "client_name",
+      "value": "William Frost",
+      "raw_quote": "William Frost",
+      "char_span": [
+        65,
+        78
+      ]
+    },
+    {
+      "field_name": "account_type",
+      "value": "individual",
+      "raw_quote": "individual",
+      "char_span": [
+        223,
+        233
+      ]
+    },
+    {
+      "field_name": "risk_tolerance",
+      "value": "conservative",
+      "raw_quote": "Conservative",
+      "char_span": [
+        476,
+        488
+      ]
+    },
+    {
+      "field_name": "investment_objective",
+      "value": "aggressive_growth",
+      "raw_quote": "Aggressive Growth",
+      "char_span": [
+        436,
+        453
+      ]
+    },
+    {
+      "field_name": "date_of_birth",
+      "value": "1968-04-12",
+      "raw_quote": "1968-04-12",
+      "char_span": [
+        100,
+        110
+      ]
+    },
+    {
+      "field_name": "citizenship",
+      "value": "United States",
+      "raw_quote": "United States",
+      "char_span": [
+        130,
+        143
+      ]
+    },
+    {
+      "field_name": "employment_status",
+      "value": "Self-employed",
+      "raw_quote": "Self-employed",
+      "char_span": [
+        169,
+        182
+      ]
+    },
+    {
+      "field_name": "annual_income",
+      "value": 1828157.47,
+      "raw_quote": "$1,828,157.47",
+      "char_span": [
+        307,
+        320
+      ]
+    },
+    {
+      "field_name": "net_worth",
+      "value": 34277952.51,
+      "raw_quote": "$34,277,952.51",
+      "char_span": [
+        338,
+        352
+      ]
+    },
+    {
+      "field_name": "source_of_funds",
+      "value": "Business income and inheritance",
+      "raw_quote": "Business income and inheritance",
+      "char_span": [
+        376,
+        407
+      ]
+    },
+    {
+      "field_name": "pep_status",
+      "value": false,
+      "raw_quote": "PEP Status: No",
+      "char_span": [
+        518,
+        532
+      ]
+    }
+  ],
+  "summary": "The client has expressed satisfaction with portfolio performance and has confirmed that their investment objectives, risk tolerance, and financial circumstances remain unchanged since the last review period.",
+  "metadata": {}
+}

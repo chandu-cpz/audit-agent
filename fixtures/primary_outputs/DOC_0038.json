@@ -1,0 +1,107 @@
+{
+  "doc_id": "DOC_0038",
+  "predicted_doc_type": "account_opening",
+  "fields": [
+    {
+      "field_name": "client_name",
+      "value": "Sofia Rodriguez",
+      "raw_quote": "Sofia Rodriguez",
+      "char_span": [
+        65,
+        80
+      ]
+    },
+    {
+      "field_name": "account_type",
+      "value": "corporate",
+      "raw_quote": "corporate",
+      "char_span": [
+        225,
+        234
+      ]
+    },
+    {
+      "field_name": "risk_tolerance",
+      "value": "aggressive",
+      "raw_quote": "Aggressive",
+      "char_span": [
+        466,
+        476
+      ]
+    },
+    {
+      "field_name": "investment_objective",
+      "value": "income",
+      "raw_quote": "Income",
+      "char_span": [
+        298,
+        304
+      ]
+    },
+    {
+      "field_name": "date_of_birth",
+      "value": "1968-04-12",
+      "raw_quote": "1968-04-12",
+      "char_span": [
+        102,
+        112
+      ]
+    },
+    {
+      "field_name": "citizenship",
+      "value": "United States",
+      "raw_quote": "United States",
+      "char_span": [
+        132,
+        145
+      ]
+    },
+    {
+      "field_name": "employment_status",
+      "value": "Self-employed",
+      "raw_quote": "Self-employed",
+      "char_span": [
+        171,
+        184
+      ]
+    },
+    {
+      "field_name": "annual_income",
+      "value": 1089490.21,
+      "raw_quote": "$1,089,490.21",
+      "char_span": [
+        308,
+        321
+      ]
+    },
+    {
+      "field_name": "net_worth",
+      "value": 20427941.38,
+      "raw_quote": "$20,427,941.38",
+      "char_span": [
+        339,
+        353
+      ]
+    },
+    {
+      "field_name": "source_of_funds",
+      "value": "Business income and inheritance",
+      "raw_quote": "Business income and inheritance",
+      "char_span": [
+        377,
+        408
+      ]
+    },
+    {
+      "field_name": "pep_status",
+      "value": false,
+      "raw_quote": "PEP Status: No",
+      "char_span": [
+        506,
+        520
+      ]
+    }
+  ],
+  "summary": "New corporate account opened for Sofia Rodriguez. Client has a aggressive risk tolerance with an objective of income. Source of funds is business income and inheritance. PEP status: No.",
+  "metadata": {}
+}

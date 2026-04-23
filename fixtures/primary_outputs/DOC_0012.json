@@ -1,0 +1,111 @@
+{
+  "doc_id": "DOC_0012",
+  "predicted_doc_type": "investment_policy_statement",
+  "fields": [
+    {
+      "field_name": "client_name",
+      "value": "David Okonkwo",
+      "raw_quote": "David Okonkwo",
+      "char_span": [
+        49,
+        62
+      ]
+    },
+    {
+      "field_name": "risk_tolerance",
+      "value": "conservative",
+      "raw_quote": "Conservative",
+      "char_span": [
+        365,
+        377
+      ]
+    },
+    {
+      "field_name": "investment_objective",
+      "value": "long_term_growth",
+      "raw_quote": "long term growth",
+      "char_span": [
+        174,
+        190
+      ]
+    },
+    {
+      "field_name": "time_horizon",
+      "value": 18,
+      "raw_quote": "18 years",
+      "char_span": [
+        398,
+        406
+      ]
+    },
+    {
+      "field_name": "liquidity_needs",
+      "value": {
+        "amount": 299571.03,
+        "horizon_months": 24
+      },
+      "raw_quote": "$299,571.03",
+      "char_span": [
+        523,
+        534
+      ]
+    },
+    {
+      "field_name": "return_target",
+      "value": "capital appreciation",
+      "raw_quote": "long-term capital appreciation",
+      "char_span": [
+        220,
+        250
+      ]
+    },
+    {
+      "field_name": "constraints",
+      "value": [
+        "No tobacco or firearms",
+        "Max 5% single issuer",
+        "Investment grade fixed income only",
+        "The portfolio must maintain a minimum 15% allocation to ESG-screened securities ",
+        "Except as otherwise provided herein, no single issuer shall represent more than "
+      ],
+      "raw_quote": "No investments in tobacco",
+      "char_span": [
+        873,
+        898
+      ]
+    },
+    {
+      "field_name": "asset_allocation_target",
+      "value": {
+        "equities": 57.3,
+        "fixed_income": 17.2,
+        "cash": 25.5
+      },
+      "raw_quote": "Equities      | 57.3",
+      "char_span": [
+        712,
+        732
+      ]
+    },
+    {
+      "field_name": "rebalancing_frequency",
+      "value": "quarterly",
+      "raw_quote": "quarterly",
+      "char_span": [
+        1449,
+        1458
+      ]
+    },
+    {
+      "field_name": "benchmark",
+      "value": "Bloomberg US Agg",
+      "raw_quote": "Bloomberg US Agg",
+      "char_span": [
+        1605,
+        1621
+      ]
+    }
+  ],
+  "summary": "IPS for David Okonkwo with conservative risk tolerance and 18-year time horizon. Target allocation: 57.3% equities, 17.2% fixed income, 25.5% cash. The client anticipates withdrawing $299,571 within 24 months.",
+  "metadata": {}
+}

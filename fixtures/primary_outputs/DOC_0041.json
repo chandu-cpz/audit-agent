@@ -1,0 +1,107 @@
+{
+  "doc_id": "DOC_0041",
+  "predicted_doc_type": "account_opening",
+  "fields": [
+    {
+      "field_name": "client_name",
+      "value": "Elena Vasquez",
+      "raw_quote": "Elena Vasquez",
+      "char_span": [
+        65,
+        78
+      ]
+    },
+    {
+      "field_name": "account_type",
+      "value": "corporate",
+      "raw_quote": "corporate",
+      "char_span": [
+        223,
+        232
+      ]
+    },
+    {
+      "field_name": "risk_tolerance",
+      "value": "moderate",
+      "raw_quote": "Moderately Aggressive",
+      "char_span": [
+        472,
+        493
+      ]
+    },
+    {
+      "field_name": "investment_objective",
+      "value": "aggressive_growth",
+      "raw_quote": "Aggressive Growth",
+      "char_span": [
+        432,
+        449
+      ]
+    },
+    {
+      "field_name": "date_of_birth",
+      "value": "1968-04-12",
+      "raw_quote": "1968-04-12",
+      "char_span": [
+        100,
+        110
+      ]
+    },
+    {
+      "field_name": "citizenship",
+      "value": "United States",
+      "raw_quote": "United States",
+      "char_span": [
+        130,
+        143
+      ]
+    },
+    {
+      "field_name": "employment_status",
+      "value": "Self-employed",
+      "raw_quote": "Self-employed",
+      "char_span": [
+        169,
+        182
+      ]
+    },
+    {
+      "field_name": "annual_income",
+      "value": 126880.81,
+      "raw_quote": "$126,880.81",
+      "char_span": [
+        306,
+        317
+      ]
+    },
+    {
+      "field_name": "net_worth",
+      "value": 2379015.14,
+      "raw_quote": "$2,379,015.14",
+      "char_span": [
+        335,
+        348
+      ]
+    },
+    {
+      "field_name": "source_of_funds",
+      "value": "Business income and inheritance",
+      "raw_quote": "Business income and inheritance",
+      "char_span": [
+        372,
+        403
+      ]
+    },
+    {
+      "field_name": "pep_status",
+      "value": false,
+      "raw_quote": "PEP Status: No",
+      "char_span": [
+        523,
+        537
+      ]
+    }
+  ],
+  "summary": "New corporate account opened for Elena Vasquez. Client has a moderately aggressive risk tolerance with an objective of aggressive growth. Source of funds is business income and inheritance. PEP status: No.",
+  "metadata": {}
+}

@@ -1,0 +1,110 @@
+{
+  "doc_id": "DOC_0048",
+  "predicted_doc_type": "quarterly_portfolio_review",
+  "fields": [
+    {
+      "field_name": "total_portfolio_value",
+      "value": 5844110.57,
+      "raw_quote": "$5,844,110.57",
+      "char_span": [
+        132,
+        145
+      ]
+    },
+    {
+      "field_name": "asset_allocations",
+      "value": {
+        "equities": {
+          "value": 4137630.28,
+          "weight": 70.8
+        },
+        "fixed_income": {
+          "value": 566878.73,
+          "weight": 9.7
+        },
+        "cash": {
+          "value": 1139601.56,
+          "weight": 19.5
+        }
+      },
+      "raw_quote": "Equities      | $4,137,630.28",
+      "char_span": [
+        508,
+        537
+      ]
+    },
+    {
+      "field_name": "performance_ytd",
+      "value": 21.39,
+      "raw_quote": "21.39%",
+      "char_span": [
+        304,
+        310
+      ]
+    },
+    {
+      "field_name": "performance_qtd",
+      "value": -6.53,
+      "raw_quote": "-6.53%",
+      "char_span": [
+        268,
+        274
+      ]
+    },
+    {
+      "field_name": "benchmark_comparison",
+      "value": {
+        "benchmark": "60/40 Blend",
+        "benchmark_return": 17.2,
+        "excess_return": 4.19
+      },
+      "raw_quote": "17.2%",
+      "char_span": [
+        343,
+        348
+      ]
+    },
+    {
+      "field_name": "risk_metrics",
+      "value": {
+        "volatility": 8,
+        "sharpe_ratio": 1.57,
+        "max_drawdown": 8.5
+      },
+      "raw_quote": "8%",
+      "char_span": [
+        749,
+        751
+      ]
+    },
+    {
+      "field_name": "strategy_changes",
+      "value": "rebalancing recommended",
+      "raw_quote": "recommend",
+      "char_span": [
+        1354,
+        1363
+      ]
+    },
+    {
+      "field_name": "fees_charged",
+      "value": 14610.28,
+      "raw_quote": "$14,610.28",
+      "char_span": [
+        1068,
+        1078
+      ]
+    },
+    {
+      "field_name": "commentary",
+      "value": "outperformed",
+      "raw_quote": "outperformed",
+      "char_span": [
+        833,
+        845
+      ]
+    }
+  ],
+  "summary": "The client's portfolio demonstrates excellent risk-adjusted returns with a Sharpe ratio exceeding industry benchmarks across all time periods analyzed. The diversification strategy has effectively minimized drawdown risk while capturing upside potential in both domestic and international markets.",
+  "metadata": {}
+}

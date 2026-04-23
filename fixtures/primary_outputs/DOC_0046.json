@@ -1,0 +1,89 @@
+{
+  "doc_id": "DOC_0046",
+  "predicted_doc_type": "compliance_disclosure",
+  "fields": [
+    {
+      "field_name": "pep_flag",
+      "value": false,
+      "raw_quote": "is not",
+      "char_span": [
+        336,
+        342
+      ]
+    },
+    {
+      "field_name": "sanctions_screening",
+      "value": "clear",
+      "raw_quote": "CLEAR",
+      "char_span": [
+        523,
+        528
+      ]
+    },
+    {
+      "field_name": "aml_status",
+      "value": "passed",
+      "raw_quote": "PASSED",
+      "char_span": [
+        872,
+        878
+      ]
+    },
+    {
+      "field_name": "kyc_status",
+      "value": "complete",
+      "raw_quote": "COMPLETE",
+      "char_span": [
+        782,
+        790
+      ]
+    },
+    {
+      "field_name": "suitability_confirmed",
+      "value": true,
+      "raw_quote": "CONFIRMED",
+      "char_span": [
+        934,
+        943
+      ]
+    },
+    {
+      "field_name": "risk_disclosure_acknowledged",
+      "value": true,
+      "raw_quote": "acknowledged",
+      "char_span": [
+        1351,
+        1363
+      ]
+    },
+    {
+      "field_name": "conflict_of_interest",
+      "value": "none",
+      "raw_quote": "NONE IDENTIFIED",
+      "char_span": [
+        1026,
+        1041
+      ]
+    },
+    {
+      "field_name": "fee_disclosure",
+      "value": "1.00% per annum",
+      "raw_quote": "1.00% per annum",
+      "char_span": [
+        1718,
+        1733
+      ]
+    },
+    {
+      "field_name": "adverse_media",
+      "value": "clear",
+      "raw_quote": "CLEAR",
+      "char_span": [
+        523,
+        528
+      ]
+    }
+  ],
+  "summary": "Compliance disclosure for Thomas Nakamura. KYC complete, sanctions screening clear, AML verification passed. Suitability confirmed for income strategy with conservative risk tolerance.",
+  "metadata": {}
+}

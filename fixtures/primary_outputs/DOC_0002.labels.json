@@ -1,0 +1,13 @@
+{
+  "doc_id": "DOC_0002",
+  "is_corrupted": true,
+  "injected_errors": [
+    {
+      "error_type": "numeric_drift",
+      "affected_fields": [
+        "total_portfolio_value"
+      ],
+      "description": "Drifted total_portfolio_value from 43390941.5 to 44989348.88"
+    }
+  ]
+}

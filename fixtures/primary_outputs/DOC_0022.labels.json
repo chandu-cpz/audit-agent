@@ -1,0 +1,13 @@
+{
+  "doc_id": "DOC_0022",
+  "is_corrupted": true,
+  "injected_errors": [
+    {
+      "error_type": "numeric_drift",
+      "affected_fields": [
+        "fees_charged"
+      ],
+      "description": "Drifted fees_charged from 4841.82 to 4705.77"
+    }
+  ]
+}

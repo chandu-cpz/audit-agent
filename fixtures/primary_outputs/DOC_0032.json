@@ -1,0 +1,110 @@
+{
+  "doc_id": "DOC_0032",
+  "predicted_doc_type": "quarterly_portfolio_review",
+  "fields": [
+    {
+      "field_name": "total_portfolio_value",
+      "value": 29954679.85,
+      "raw_quote": "$29,954,679.85",
+      "char_span": [
+        130,
+        144
+      ]
+    },
+    {
+      "field_name": "asset_allocations",
+      "value": {
+        "equities": {
+          "value": 7069304.44,
+          "weight": 23.6
+        },
+        "fixed_income": {
+          "value": 14018790.17,
+          "weight": 46.8
+        },
+        "cash": {
+          "value": 8866585.24,
+          "weight": 29.6
+        }
+      },
+      "raw_quote": "Equities      | $7,069,304.44",
+      "char_span": [
+        502,
+        531
+      ]
+    },
+    {
+      "field_name": "performance_ytd",
+      "value": 7.77,
+      "raw_quote": "7.77%",
+      "char_span": [
+        303,
+        308
+      ]
+    },
+    {
+      "field_name": "performance_qtd",
+      "value": -2.23,
+      "raw_quote": "-2.23%",
+      "char_span": [
+        267,
+        273
+      ]
+    },
+    {
+      "field_name": "benchmark_comparison",
+      "value": {
+        "benchmark": "S&P 500",
+        "benchmark_return": 4.01,
+        "excess_return": 3.76
+      },
+      "raw_quote": "4.01%",
+      "char_span": [
+        337,
+        342
+      ]
+    },
+    {
+      "field_name": "risk_metrics",
+      "value": {
+        "volatility": 12,
+        "sharpe_ratio": 0.89,
+        "max_drawdown": 4.2
+      },
+      "raw_quote": "12%",
+      "char_span": [
+        748,
+        751
+      ]
+    },
+    {
+      "field_name": "strategy_changes",
+      "value": "rebalancing recommended",
+      "raw_quote": "recommend",
+      "char_span": [
+        1513,
+        1522
+      ]
+    },
+    {
+      "field_name": "fees_charged",
+      "value": 74886.7,
+      "raw_quote": "$74,886.70",
+      "char_span": [
+        1068,
+        1078
+      ]
+    },
+    {
+      "field_name": "commentary",
+      "value": "outperformed",
+      "raw_quote": "outperformed",
+      "char_span": [
+        833,
+        845
+      ]
+    }
+  ],
+  "summary": "Q1 2026 portfolio review for Aisha Patel. Total value: $29,954,680. YTD return: 7.77% (outperformed benchmark by 3.76pp). Allocation: 23.6% equities, 46.8% fixed income, 29.6% cash.",
+  "metadata": {}
+}

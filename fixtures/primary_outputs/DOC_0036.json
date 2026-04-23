@@ -1,0 +1,109 @@
+{
+  "doc_id": "DOC_0036",
+  "predicted_doc_type": "investment_policy_statement",
+  "fields": [
+    {
+      "field_name": "client_name",
+      "value": "Thomas Nakamura",
+      "raw_quote": "Thomas Nakamura",
+      "char_span": [
+        49,
+        64
+      ]
+    },
+    {
+      "field_name": "risk_tolerance",
+      "value": "aggressive",
+      "raw_quote": "Aggressive",
+      "char_span": [
+        357,
+        367
+      ]
+    },
+    {
+      "field_name": "investment_objective",
+      "value": "income",
+      "raw_quote": "income",
+      "char_span": [
+        176,
+        182
+      ]
+    },
+    {
+      "field_name": "time_horizon",
+      "value": 17,
+      "raw_quote": "20 years",
+      "char_span": [
+        388,
+        396
+      ]
+    },
+    {
+      "field_name": "liquidity_needs",
+      "value": {
+        "amount": 346973.34,
+        "horizon_months": 7
+      },
+      "raw_quote": "$346,973.34",
+      "char_span": [
+        513,
+        524
+      ]
+    },
+    {
+      "field_name": "return_target",
+      "value": "capital appreciation",
+      "raw_quote": "long-term capital appreciation",
+      "char_span": [
+        212,
+        242
+      ]
+    },
+    {
+      "field_name": "constraints",
+      "value": [
+        "No tobacco or firearms",
+        "Max 5% single issuer",
+        "Investment grade fixed income only"
+      ],
+      "raw_quote": "No investments in tobacco",
+      "char_span": [
+        863,
+        888
+      ]
+    },
+    {
+      "field_name": "asset_allocation_target",
+      "value": {
+        "equities": 47.4,
+        "fixed_income": 13.3,
+        "cash": 39.3
+      },
+      "raw_quote": "Equities      | 47.4",
+      "char_span": [
+        701,
+        721
+      ]
+    },
+    {
+      "field_name": "rebalancing_frequency",
+      "value": "quarterly",
+      "raw_quote": "quarterly",
+      "char_span": [
+        1086,
+        1095
+      ]
+    },
+    {
+      "field_name": "benchmark",
+      "value": "60/40 Blend",
+      "raw_quote": "60/40 Blend",
+      "char_span": [
+        1242,
+        1253
+      ]
+    }
+  ],
+  "summary": "IPS for Thomas Nakamura with aggressive risk tolerance and 20-year time horizon. Target allocation: 47.4% equities, 13.3% fixed income, 39.3% cash. The client anticipates withdrawing $346,973 within 7 months.",
+  "metadata": {}
+}
